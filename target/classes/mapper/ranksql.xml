@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+
+<mapper namespace="ranksql">
+	<!-- 랭크 저장 -->
+	<insert id="insRank">
+		insert into rank values (#{user_ID}, #{score}, #{tryNum}, #{remainTime}) 
+	</insert>
+	
+	<!-- 랭크 조회 -->
+	<select id="selRank" resultType="com.arian.NumBaseGame.Game.GameDto">
+		select * from rank  order by score desc, tryNum asc, remainTime desc limit 10;
+	</select>
+</mapper>
