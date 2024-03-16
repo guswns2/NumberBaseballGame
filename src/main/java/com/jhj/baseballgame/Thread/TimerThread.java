@@ -1,4 +1,4 @@
-package com.arian.NumBaseGame.Thread;
+package com.jhj.baseballgame.Thread;
 
 import javax.websocket.Session;
 

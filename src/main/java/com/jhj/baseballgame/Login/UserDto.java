@@ -1,4 +1,4 @@
-package com.arian.NumBaseGame.Login;
+package com.jhj.baseballgame.Login;
 
 public class UserDto {
 	private String user_ID;

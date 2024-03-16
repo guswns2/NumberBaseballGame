@@ -1,4 +1,4 @@
-package com.arian.NumBaseGame.Game;
+package com.jhj.baseballgame.Game;
 
 import java.util.List;
 

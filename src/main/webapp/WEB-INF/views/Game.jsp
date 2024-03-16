@@ -324,7 +324,7 @@
 				return;
 			}
 			else {
-				ws = new WebSocket("ws://localhost:8080/NumBaseGame/echo.do");
+				ws = new WebSocket("ws://localhost:8080/baseballgame/echo.do");
 			}
 			
 			ws.onopen = function(e) {

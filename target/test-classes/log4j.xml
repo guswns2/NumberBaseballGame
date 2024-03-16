@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="com.arian.NumBaseGame">
+	<logger name="com.jhj.baseballgame">
 		<level value="info" />
 	</logger>
 	

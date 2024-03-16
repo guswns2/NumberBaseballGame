@@ -1,4 +1,4 @@
-package com.arian.NumBaseGame.Game;
+package com.jhj.baseballgame.Game;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

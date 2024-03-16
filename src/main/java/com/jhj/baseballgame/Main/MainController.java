@@ -1,4 +1,4 @@
-package com.arian.NumBaseGame.Main;
+package com.jhj.baseballgame.Main;
 
 import java.util.List;
 
@@ -9,7 +9,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.arian.NumBaseGame.Game.GameServiceImp;
+import com.jhj.baseballgame.Game.GameServiceImp;
 
 @Controller
 public class MainController {
