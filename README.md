@@ -7,7 +7,7 @@
 
 ## ⚙ 개발 환경
 - Web : jsp
-- Server : Java(v8), Spring (v4.3.14), Tomcat (v8.5)
+- Server : Java(v1.8), Spring (v4.3.2), Tomcat (v9.0)
 - DataBase : PostgreSQL
 - Code Editor : STS4, DBeaver
 
@@ -30,5 +30,4 @@
 
 
 ## 🔁 프로젝트 설치 및 실행
-- 프로그램 실행
-  - 프로젝트 우클릭 > Run as > Run on Server
+- https://www.notion.so/NumberBaseballGame-155ffb5eb35680a995d3d438de4558b5?pvs=4

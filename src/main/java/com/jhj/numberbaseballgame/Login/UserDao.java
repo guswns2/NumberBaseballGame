@@ -1,4 +1,4 @@
-package com.jhj.baseballgame.Login;
+package com.jhj.numberbaseballgame.Login;
 
 public interface UserDao {
 	public String Login(UserDto dto);

@@ -1,4 +1,4 @@
-package com.jhj.baseballgame.Game;
+package com.jhj.numberbaseballgame.Game;
 
 public class GameDto {
 	private String user_ID;

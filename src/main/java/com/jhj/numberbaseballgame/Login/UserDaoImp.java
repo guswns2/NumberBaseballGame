@@ -1,4 +1,4 @@
-package com.jhj.baseballgame.Login;
+package com.jhj.numberbaseballgame.Login;
 
 import org.mybatis.spring.SqlSessionTemplate;
 import org.springframework.beans.factory.annotation.Autowired;

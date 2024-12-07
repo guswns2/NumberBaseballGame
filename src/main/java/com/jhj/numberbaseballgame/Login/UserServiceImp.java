@@ -1,4 +1,4 @@
-package com.jhj.baseballgame.Login;
+package com.jhj.numberbaseballgame.Login;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

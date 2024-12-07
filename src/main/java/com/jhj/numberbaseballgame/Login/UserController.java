@@ -1,4 +1,4 @@
-package com.jhj.baseballgame.Login;
+package com.jhj.numberbaseballgame.Login;
 
 import javax.servlet.http.HttpSession;
 

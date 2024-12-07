@@ -9,7 +9,7 @@
 	</insert>
 	
 	<!-- 랭크 조회 -->
-	<select id="selRank" resultType="com.jhj.baseballgame.Game.GameDto">
+	<select id="selRank" resultType="com.jhj.numberbaseballgame.Game.GameDto">
 		select * from rank  order by score desc, tryNum asc, remainTime desc limit 10;
 	</select>
 </mapper>
